@@ -1,0 +1,10 @@
+../Core/Src/stats.c:4:6:calculateDiff	32	static
+../Core/Src/stats.c:10:6:calculateDiff_CMSIS	24	static
+../Core/Src/stats.c:14:7:calculateAverage	24	static
+../Core/Src/stats.c:21:7:calculateAverage_CMSIS	24	static
+../Core/Src/stats.c:27:7:calculateStd	40	static
+../Core/Src/stats.c:36:7:calculateStd_CMSIS	24	static
+../Core/Src/stats.c:42:6:calculateConv	32	static
+../Core/Src/stats.c:53:6:calculateConv_CMSIS	32	static
+../Core/Src/stats.c:57:7:calculateCorr	56	static
+../Core/Src/stats.c:70:7:calculateCorr_CMSIS	160	dynamic
